@@ -1,3 +1,7 @@
+/* Created by :- Gursagar Singh
+   Dated :- 22.01.2023 
+*/
+
 #include <stdio.h>
 #include <string.h>
 
